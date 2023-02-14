@@ -1,2 +1,4 @@
-# Contest
-This Repo is used for a contest on positions in LetiCoin Team 
+# Здесь вы можете создавать Pull Requests к вашим задачам на позиции в LetiCoin
+
+
+
